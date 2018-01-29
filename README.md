@@ -1,6 +1,6 @@
 # USART-Communication
 Usart - Universal Synchronous and Asynchronous serial Receiver and Transmitter - / - Atmega32 -
-Here i have used it as an Asynchronous Communication 
+Here i have used it as an Asynchronous Communication (UART)
 
 ## Full Duplex Operation
 ## Asynchronous
